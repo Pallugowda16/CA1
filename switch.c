@@ -25,4 +25,5 @@ int main() {
 
 				case5
 				printf("b.tech vlsi");
-
+                           case5
+				   printf("b.tech robo");
