@@ -17,3 +17,6 @@ int main() {
 		      case'4'
 			      printf("b.tech mech");
                        break;
+
+
+		        printf("b.tech iot);
