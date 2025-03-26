@@ -21,3 +21,8 @@ int main() {
 
 		        printf("b.tech iot);
 			printf("b.tech iot); (chnage)
+
+
+				case5
+				printf("b.tech vlsi");
+
