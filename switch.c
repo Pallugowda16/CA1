@@ -27,3 +27,5 @@ int main() {
 				printf("b.tech vlsi");
                            case5
 				   printf("b.tech robo");
+			   case6
+				   printf("b.tech web");
