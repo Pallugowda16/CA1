@@ -11,3 +11,6 @@ int main() {
 	      case'2':
 		      printf("b.tech aiml);
 		      break;
+		      case'3'
+			      printf("b.tech ece);
+                       break:
