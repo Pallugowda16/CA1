@@ -7,6 +7,11 @@ int main() {
     case '1':
       printf("b.tech cse);
       break;
+
+printf scanf
+
+
+
       switch {
 	      case'2':
 		      printf("b.tech aiml);
